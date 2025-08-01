@@ -1,1 +1,1 @@
-# DevBoard-S1
+# DevBoard YTK-D1/1
